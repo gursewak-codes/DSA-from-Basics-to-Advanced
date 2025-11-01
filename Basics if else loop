@@ -1,0 +1,22 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+        // comparing 2 variables
+        int   a,b ;
+         cout << "enter a" << endl;
+         cin >> a;
+         cout << "enter b" << endl;
+         cin >> b;
+       
+         if (a>b) {
+            cout << "a is gretter" << endl;
+         }
+         else {
+              cout << "b is gretter" << endl;
+         }
+
+
+
+}
